@@ -4,7 +4,7 @@ I had Done this project as part of my academic course SOLUTION ARCHITECTING ON C
 
 OBJECTIVE: An Application to convert a text to speech(audio) using Amazon Polly.
 
-In this project I has used four different services,
+In this project I had used four different services,
 
 1)S3
 
